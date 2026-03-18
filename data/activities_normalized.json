@@ -27207,5 +27207,44 @@
     "start_date_local": "2026-03-17T08:10:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 3548.8,
+    "elevation_gain": 5.0,
+    "id": "17765548335",
+    "moving_time": 359.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T07:52:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 43156.7,
+    "elevation_gain": 355.0,
+    "id": "17766430845",
+    "moving_time": 4407.0,
+    "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T08:01:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 6464.3,
+    "elevation_gain": 21.0,
+    "id": "17766571558",
+    "moving_time": 702.0,
+    "name": "Zwift - Flat Out Fast in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T09:15:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
