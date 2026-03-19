@@ -27246,5 +27246,18 @@
     "start_date_local": "2026-03-18T09:15:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 42268.7,
+    "elevation_gain": 589.0,
+    "id": "17780146528",
+    "moving_time": 4329.0,
+    "name": "Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-19T10:11:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
