@@ -18881,6 +18881,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17791116067",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 15,
+      "name": "Zwift - TrainerRoad: Norman Clyde -2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17821487450",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 8,
+      "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17827501437",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33743,11 +33761,29 @@
           "distance": 53395.6,
           "elevation_gain": 314.0,
           "moving_time": 5275.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17821487450"
+          ],
+          "count": 1,
+          "distance": 37093.7,
+          "elevation_gain": 283.0,
+          "moving_time": 4194.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17827501437"
+          ],
+          "count": 1,
+          "distance": 40385.6,
+          "elevation_gain": 228.0,
+          "moving_time": 4060.0
         }
       }
     }
   },
-  "generated_at": "2026-03-22T15:51:31.411542+00:00",
+  "generated_at": "2026-03-23T18:03:00.192763+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",

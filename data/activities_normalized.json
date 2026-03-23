@@ -27272,5 +27272,31 @@
     "start_date_local": "2026-03-20T08:11:14Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 37093.7,
+    "elevation_gain": 283.0,
+    "id": "17821487450",
+    "moving_time": 4194.0,
+    "name": "Zwift - TrainerRoad: Norman Clyde -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T15:46:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 40385.6,
+    "elevation_gain": 228.0,
+    "id": "17827501437",
+    "moving_time": 4060.0,
+    "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-23T08:11:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
