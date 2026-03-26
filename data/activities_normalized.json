@@ -27337,5 +27337,44 @@
     "start_date_local": "2026-03-25T08:01:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 8997.2,
+    "elevation_gain": 41.0,
+    "id": "17864453681",
+    "moving_time": 874.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T07:52:27Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 19362.7,
+    "elevation_gain": 160.0,
+    "id": "17864795061",
+    "moving_time": 1612.0,
+    "name": "Zwift - Race: Stage 6b: Zwift Games: Crit Cade (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T08:10:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 15323.8,
+    "elevation_gain": 78.0,
+    "id": "17865086700",
+    "moving_time": 1541.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T08:37:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
