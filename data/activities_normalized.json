@@ -27467,5 +27467,31 @@
     "start_date_local": "2026-03-31T08:10:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 3190.8,
+    "elevation_gain": 8.0,
+    "id": "17936702090",
+    "moving_time": 312.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T07:52:48Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 54063.2,
+    "elevation_gain": 297.0,
+    "id": "17937767937",
+    "moving_time": 5493.0,
+    "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T08:01:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
