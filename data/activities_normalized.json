@@ -27519,5 +27519,18 @@
     "start_date_local": "2026-04-03T08:01:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 20547.0,
+    "elevation_gain": 100.0,
+    "id": "17988393128",
+    "moving_time": 2012.0,
+    "name": "Wells Ave Crit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-05T08:16:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
