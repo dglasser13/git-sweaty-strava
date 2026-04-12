@@ -19133,6 +19133,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18053751999",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "name": "Zwift - Yorkshire Double Loop in Yorkshire",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18071098021",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 8,
+      "name": "Wells Ave Crit - C",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18080651638",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33393,6 +33411,15 @@
           "distance": 20547.0,
           "elevation_gain": 100.0,
           "moving_time": 2012.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18080651638"
+          ],
+          "count": 1,
+          "distance": 18283.4,
+          "elevation_gain": 95.0,
+          "moving_time": 1717.0
         }
       },
       "VirtualRide": {
@@ -34177,11 +34204,20 @@
           "distance": 54306.6,
           "elevation_gain": 313.0,
           "moving_time": 5411.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18071098021"
+          ],
+          "count": 1,
+          "distance": 31035.8,
+          "elevation_gain": 556.0,
+          "moving_time": 4071.0
         }
       }
     }
   },
-  "generated_at": "2026-04-11T16:02:02.443822+00:00",
+  "generated_at": "2026-04-12T17:04:25.100979+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",

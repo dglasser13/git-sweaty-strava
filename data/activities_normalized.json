@@ -27636,5 +27636,31 @@
     "start_date_local": "2026-04-10T08:07:33Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 31035.8,
+    "elevation_gain": 556.0,
+    "id": "18071098021",
+    "moving_time": 4071.0,
+    "name": "Zwift - Yorkshire Double Loop in Yorkshire",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-11T15:02:40Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 18283.4,
+    "elevation_gain": 95.0,
+    "id": "18080651638",
+    "moving_time": 1717.0,
+    "name": "Wells Ave Crit - C",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T08:16:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
