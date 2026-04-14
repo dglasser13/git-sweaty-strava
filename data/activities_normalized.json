@@ -27662,5 +27662,18 @@
     "start_date_local": "2026-04-12T08:16:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 36955.7,
+    "elevation_gain": 355.0,
+    "id": "18104283383",
+    "moving_time": 3681.0,
+    "name": "Zwift - Race: Zwift Racing League: Legends Route - Open Topaz League Division 1 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T08:01:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
