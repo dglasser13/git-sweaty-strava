@@ -19187,6 +19187,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18131565641",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 8,
+      "name": "Zwift - Group Ride: BMTR Short Adventure  (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18145129763",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34277,11 +34286,20 @@
           "distance": 31267.6,
           "elevation_gain": 482.0,
           "moving_time": 3695.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18145129763"
+          ],
+          "count": 1,
+          "distance": 54947.0,
+          "elevation_gain": 371.0,
+          "moving_time": 5607.0
         }
       }
     }
   },
-  "generated_at": "2026-04-16T16:21:14.740615+00:00",
+  "generated_at": "2026-04-17T15:58:37.867272+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
