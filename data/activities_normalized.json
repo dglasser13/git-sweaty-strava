@@ -27805,5 +27805,31 @@
     "start_date_local": "2026-04-24T08:01:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 32330.2,
+    "elevation_gain": 423.0,
+    "id": "18257020701",
+    "moving_time": 3892.0,
+    "name": "Zwift - TrainerRoad: Pioneer -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-25T15:08:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 15721.4,
+    "elevation_gain": 79.0,
+    "id": "18267264743",
+    "moving_time": 1488.0,
+    "name": "Wells Ave Crit - C race",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T08:15:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
