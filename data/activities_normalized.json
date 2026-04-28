@@ -27844,5 +27844,31 @@
     "start_date_local": "2026-04-27T08:02:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 3458.7,
+    "elevation_gain": 18.0,
+    "id": "18290984233",
+    "moving_time": 352.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-28T07:52:08Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 44880.1,
+    "elevation_gain": 461.0,
+    "id": "18291898939",
+    "moving_time": 4239.0,
+    "name": "Zwift - Race: Zwift Racing League: Legends Route - Open Topaz League Division 1 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-28T08:01:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
