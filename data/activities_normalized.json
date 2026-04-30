@@ -27896,5 +27896,18 @@
     "start_date_local": "2026-04-29T08:01:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 29097.9,
+    "elevation_gain": 309.0,
+    "id": "18318855469",
+    "moving_time": 3443.0,
+    "name": "Zwift - VO2 Max 4x4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T08:01:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
