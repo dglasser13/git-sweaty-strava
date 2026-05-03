@@ -27922,5 +27922,31 @@
     "start_date_local": "2026-05-01T08:01:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 11973.3,
+    "elevation_gain": 69.0,
+    "id": "18350607289",
+    "moving_time": 1183.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-02T14:48:16Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 32161.7,
+    "elevation_gain": 317.0,
+    "id": "18351062637",
+    "moving_time": 3454.0,
+    "name": "Zwift - Race: Stage 4: Pas Racing: Serpentine 8 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-02T15:11:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
