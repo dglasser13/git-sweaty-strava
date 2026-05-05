@@ -27961,5 +27961,44 @@
     "start_date_local": "2026-05-04T08:02:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 4800.7,
+    "elevation_gain": 64.0,
+    "id": "18384450446",
+    "moving_time": 510.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T07:58:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 26375.2,
+    "elevation_gain": 206.0,
+    "id": "18384957303",
+    "moving_time": 2370.0,
+    "name": "Zwift - Race: Stage 1: Four by Four: Rolling Highlands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T08:10:24Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 7137.1,
+    "elevation_gain": 35.0,
+    "id": "18385091806",
+    "moving_time": 661.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T08:50:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
