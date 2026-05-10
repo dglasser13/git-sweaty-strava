@@ -19421,6 +19421,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18425492047",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 13,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18442667030",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 14,
+      "name": "Zwift - Race: Stage 1: Four by Four: Rolling Highlands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18443091240",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 14,
+      "name": "Zwift - Pacer Group Ride with Coco",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18443185142",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34689,11 +34716,22 @@
           "distance": 56048.4,
           "elevation_gain": 355.0,
           "moving_time": 5636.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18442667030",
+            "18443091240",
+            "18443185142"
+          ],
+          "count": 3,
+          "distance": 40088.9,
+          "elevation_gain": 319.0,
+          "moving_time": 3946.0
         }
       }
     }
   },
-  "generated_at": "2026-05-09T15:49:44.662794+00:00",
+  "generated_at": "2026-05-10T15:51:26.092611+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
