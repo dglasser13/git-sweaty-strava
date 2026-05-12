@@ -19466,6 +19466,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18463700598",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18476112503",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 8,
+      "name": "Zwift - Race: Stage 2: Four by Four: Jurassic Coast (A)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18476773130",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34755,11 +34773,21 @@
           "distance": 46176.3,
           "elevation_gain": 341.0,
           "moving_time": 4673.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18476112503",
+            "18476773130"
+          ],
+          "count": 2,
+          "distance": 37956.5,
+          "elevation_gain": 292.0,
+          "moving_time": 3683.0
         }
       }
     }
   },
-  "generated_at": "2026-05-11T17:22:51.875141+00:00",
+  "generated_at": "2026-05-12T17:08:27.585401+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
