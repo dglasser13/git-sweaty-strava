@@ -19538,6 +19538,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18534063541",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 14,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18547238568",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 14,
+      "name": "Zwift - Race: Rhino Crash Chase Race (B)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18547731052",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18553760665",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 8,
+      "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18554692987",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34875,11 +34911,31 @@
           "distance": 54448.6,
           "elevation_gain": 388.0,
           "moving_time": 5463.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18547238568",
+            "18547731052"
+          ],
+          "count": 2,
+          "distance": 51067.0,
+          "elevation_gain": 339.0,
+          "moving_time": 4845.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18553760665",
+            "18554692987"
+          ],
+          "count": 2,
+          "distance": 54360.8,
+          "elevation_gain": 302.0,
+          "moving_time": 5275.0
         }
       }
     }
   },
-  "generated_at": "2026-05-17T15:56:50.968383+00:00",
+  "generated_at": "2026-05-18T17:29:06.012981+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
