@@ -19574,6 +19574,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18554692987",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 8,
+      "name": "Zwift - Race: Stage 3: Four by Four: Island Hopper (A)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18567478647",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 8,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18567715196",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34931,11 +34949,21 @@
           "distance": 54360.8,
           "elevation_gain": 302.0,
           "moving_time": 5275.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18567478647",
+            "18567715196"
+          ],
+          "count": 2,
+          "distance": 31431.9,
+          "elevation_gain": 187.0,
+          "moving_time": 2996.0
         }
       }
     }
   },
-  "generated_at": "2026-05-18T17:29:06.012981+00:00",
+  "generated_at": "2026-05-19T17:37:06.476993+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
