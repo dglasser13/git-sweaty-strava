@@ -19610,6 +19610,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18581751011",
       "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 7,
+      "name": "Zwift - VO2Max \u2014 5x4min @ 306W",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18594771616",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34987,11 +34996,20 @@
           "distance": 53314.2,
           "elevation_gain": 267.0,
           "moving_time": 5231.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18594771616"
+          ],
+          "count": 1,
+          "distance": 34881.3,
+          "elevation_gain": 227.0,
+          "moving_time": 3688.0
         }
       }
     }
   },
-  "generated_at": "2026-05-20T17:53:29.790528+00:00",
+  "generated_at": "2026-05-21T17:30:11.929794+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
