@@ -19628,6 +19628,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18608535337",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 13,
+      "name": "Zwift - Volcano Climb in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18624724599",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 13,
+      "name": "Zwift - Race: Zwift Epic Race - Shisa Shakedown (B)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18625713583",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35023,11 +35041,21 @@
           "distance": 55878.7,
           "elevation_gain": 370.0,
           "moving_time": 5717.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18624724599",
+            "18625713583"
+          ],
+          "count": 2,
+          "distance": 62547.1,
+          "elevation_gain": 593.0,
+          "moving_time": 6355.0
         }
       }
     }
   },
-  "generated_at": "2026-05-23T16:00:23.994727+00:00",
+  "generated_at": "2026-05-24T15:59:37.368348+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
