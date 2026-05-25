@@ -28377,5 +28377,18 @@
     "start_date_local": "2026-05-23T13:30:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 37075.0,
+    "elevation_gain": 411.0,
+    "id": "18639995110",
+    "moving_time": 4303.0,
+    "name": "Zwift - TrainerRoad: Pioneer -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-24T14:48:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
