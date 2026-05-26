@@ -28390,5 +28390,31 @@
     "start_date_local": "2026-05-24T14:48:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 6421.7,
+    "elevation_gain": 48.0,
+    "id": "18660261975",
+    "moving_time": 653.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-26T07:56:54Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 23118.7,
+    "elevation_gain": 347.0,
+    "id": "18660711024",
+    "moving_time": 2229.0,
+    "name": "Zwift - Race: Stage 4: Four by Four: Queen's Highway After Party (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-26T08:10:23Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
