@@ -28507,5 +28507,18 @@
     "start_date_local": "2026-06-03T08:00:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 13135.3,
+    "elevation_gain": 180.0,
+    "id": "18785573108",
+    "moving_time": 1895.0,
+    "name": "Zwift - FTP Ramp Test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T11:25:49Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
