@@ -28533,5 +28533,57 @@
     "start_date_local": "2026-06-05T08:00:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 9062.7,
+    "elevation_gain": 70.0,
+    "id": "18828552402",
+    "moving_time": 872.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-07T14:22:32Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 29190.9,
+    "elevation_gain": 153.0,
+    "id": "18829013355",
+    "moving_time": 2554.0,
+    "name": "Zwift - Race: Rhino Crash Chase Race (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-07T14:39:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 2971.5,
+    "elevation_gain": 6.0,
+    "id": "18835630469",
+    "moving_time": 287.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-08T07:54:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 40435.7,
+    "elevation_gain": 258.0,
+    "id": "18836426992",
+    "moving_time": 4039.0,
+    "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-08T08:01:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
