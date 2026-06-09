@@ -28585,5 +28585,44 @@
     "start_date_local": "2026-06-08T08:01:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 7719.6,
+    "elevation_gain": 62.0,
+    "id": "18849606236",
+    "moving_time": 839.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-09T07:53:38Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 26853.6,
+    "elevation_gain": 305.0,
+    "id": "18850147191",
+    "moving_time": 2449.0,
+    "name": "Zwift - Race: Stage 2: Level Up Racing: BRAEk-fast Crits and Grits (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-09T08:10:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 5582.5,
+    "elevation_gain": 25.0,
+    "id": "18850281209",
+    "moving_time": 552.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-09T08:52:03Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -19790,6 +19790,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18836426992",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18849606236",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 8,
+      "name": "Zwift - Race: Stage 2: Level Up Racing: BRAEk-fast Crits and Grits (A)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18850147191",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 8,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18850281209",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35291,11 +35318,22 @@
           "distance": 43407.2,
           "elevation_gain": 264.0,
           "moving_time": 4326.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18849606236",
+            "18850147191",
+            "18850281209"
+          ],
+          "count": 3,
+          "distance": 40155.7,
+          "elevation_gain": 392.0,
+          "moving_time": 3840.0
         }
       }
     }
   },
-  "generated_at": "2026-06-08T17:50:14.257264+00:00",
+  "generated_at": "2026-06-09T17:23:38.317647+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
