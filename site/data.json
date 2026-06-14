@@ -19835,6 +19835,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18890911585",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18907586784",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 7,
+      "name": "Ken Harrod Memorial Road Race - cat 4/5",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18919271156",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34122,6 +34140,24 @@
           "distance": 33415.3,
           "elevation_gain": 262.0,
           "moving_time": 6004.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18907586784"
+          ],
+          "count": 1,
+          "distance": 10214.5,
+          "elevation_gain": 76.0,
+          "moving_time": 1403.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18919271156"
+          ],
+          "count": 1,
+          "distance": 65727.4,
+          "elevation_gain": 811.0,
+          "moving_time": 7435.0
         }
       },
       "VirtualRide": {
@@ -35369,7 +35405,7 @@
       }
     }
   },
-  "generated_at": "2026-06-13T16:12:36.965252+00:00",
+  "generated_at": "2026-06-14T16:19:41.417539+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",

@@ -28650,5 +28650,31 @@
     "start_date_local": "2026-06-12T08:57:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 10214.5,
+    "elevation_gain": 76.0,
+    "id": "18907586784",
+    "moving_time": 1403.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T13:28:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 65727.4,
+    "elevation_gain": 811.0,
+    "id": "18919271156",
+    "moving_time": 7435.0,
+    "name": "Ken Harrod Memorial Road Race - cat 4/5",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T07:56:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
