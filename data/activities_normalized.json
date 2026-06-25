@@ -28702,5 +28702,18 @@
     "start_date_local": "2026-06-16T08:19:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 19427.5,
+    "elevation_gain": 442.0,
+    "id": "19061493941",
+    "moving_time": 3032.0,
+    "name": "Zwift - 2018 Worlds Short Lap in Innsbruck",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-25T08:02:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
