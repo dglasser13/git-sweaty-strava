@@ -28858,5 +28858,44 @@
     "start_date_local": "2026-07-06T08:01:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 3351.6,
+    "elevation_gain": 5.0,
+    "id": "19213648112",
+    "moving_time": 337.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-07T08:02:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 14083.3,
+    "elevation_gain": 72.0,
+    "id": "19213999098",
+    "moving_time": 1421.0,
+    "name": "Zwift - TT: Stage 1 - Race - Tour Fever",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-07T08:10:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 11226.3,
+    "elevation_gain": 81.0,
+    "id": "19214262855",
+    "moving_time": 1195.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-07T08:34:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
