@@ -28910,5 +28910,18 @@
     "start_date_local": "2026-07-08T08:00:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 34697.6,
+    "elevation_gain": 238.0,
+    "id": "19242500896",
+    "moving_time": 3562.0,
+    "name": "Zwift - Group Ride: Long - Stage 1 - Tour Fever",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-09T08:00:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
