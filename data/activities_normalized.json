@@ -29014,5 +29014,18 @@
     "start_date_local": "2026-07-14T08:50:07Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 40270.4,
+    "elevation_gain": 268.0,
+    "id": "19323176254",
+    "moving_time": 4258.0,
+    "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-15T08:00:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
