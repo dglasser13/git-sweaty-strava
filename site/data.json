@@ -20132,6 +20132,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19388476000",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19402039077",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 8,
+      "name": "Zwift - Race: Stage 3 - Race - Tour Fever (A)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19402609530",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 8,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19402806649",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35879,11 +35906,22 @@
           "distance": 44427.6,
           "elevation_gain": 214.0,
           "moving_time": 4238.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19402039077",
+            "19402609530",
+            "19402806649"
+          ],
+          "count": 3,
+          "distance": 35522.6,
+          "elevation_gain": 245.0,
+          "moving_time": 3605.0
         }
       }
     }
   },
-  "generated_at": "2026-07-20T16:22:20.494373+00:00",
+  "generated_at": "2026-07-21T16:21:12.544513+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
