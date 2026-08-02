@@ -20258,6 +20258,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19542386660",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 7,
+      "name": "BMTR Metric Century Meet-up in Barre, MA",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19560613822",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34572,6 +34581,15 @@
           "distance": 54266.6,
           "elevation_gain": 431.0,
           "moving_time": 7132.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19560613822"
+          ],
+          "count": 1,
+          "distance": 103054.0,
+          "elevation_gain": 1417.0,
+          "moving_time": 13172.0
         }
       },
       "VirtualRide": {
@@ -36087,7 +36105,7 @@
       }
     }
   },
-  "generated_at": "2026-08-01T15:58:45.983733+00:00",
+  "generated_at": "2026-08-02T15:57:56.796463+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",

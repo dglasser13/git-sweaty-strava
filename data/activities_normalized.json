@@ -29261,5 +29261,18 @@
     "start_date_local": "2026-07-31T08:00:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 103054.0,
+    "elevation_gain": 1417.0,
+    "id": "19560613822",
+    "moving_time": 13172.0,
+    "name": "BMTR Metric Century Meet-up in Barre, MA",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T07:59:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
