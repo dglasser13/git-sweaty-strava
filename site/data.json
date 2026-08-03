@@ -20267,6 +20267,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19560613822",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 8,
+      "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19582143279",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 8,
+      "name": "Zwift - Race: Pro Tour | Chasing Pologne - Stage 1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19582846632",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36101,11 +36119,21 @@
           "distance": 40554.3,
           "elevation_gain": 321.0,
           "moving_time": 4140.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19582143279",
+            "19582846632"
+          ],
+          "count": 2,
+          "distance": 44298.0,
+          "elevation_gain": 240.0,
+          "moving_time": 4095.0
         }
       }
     }
   },
-  "generated_at": "2026-08-02T15:57:56.796463+00:00",
+  "generated_at": "2026-08-03T17:07:04.131429+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",

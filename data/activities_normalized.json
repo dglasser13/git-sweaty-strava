@@ -29274,5 +29274,31 @@
     "start_date_local": "2026-08-01T07:59:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 10108.5,
+    "elevation_gain": 61.0,
+    "id": "19582143279",
+    "moving_time": 964.0,
+    "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-03T08:13:56Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 34189.5,
+    "elevation_gain": 179.0,
+    "id": "19582846632",
+    "moving_time": 3131.0,
+    "name": "Zwift - Race: Pro Tour | Chasing Pologne - Stage 1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-03T08:35:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
