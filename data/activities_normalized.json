@@ -29300,5 +29300,31 @@
     "start_date_local": "2026-08-03T08:35:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 13240.7,
+    "elevation_gain": 119.0,
+    "id": "19596789427",
+    "moving_time": 1422.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-04T08:07:19Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 24561.4,
+    "elevation_gain": 233.0,
+    "id": "19597400341",
+    "moving_time": 2413.0,
+    "name": "Zwift - Race: Pro Tour | Chasing Pologne - Stage 2 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-04T08:35:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
