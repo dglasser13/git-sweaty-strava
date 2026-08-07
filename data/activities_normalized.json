@@ -29326,5 +29326,70 @@
     "start_date_local": "2026-08-04T08:35:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 6073.9,
+    "elevation_gain": 14.0,
+    "id": "19625979274",
+    "moving_time": 595.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-06T07:53:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 26431.6,
+    "elevation_gain": 207.0,
+    "id": "19626588610",
+    "moving_time": 2481.0,
+    "name": "Zwift - Group Ride: BMTR Chase Adventure (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-06T08:07:37Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 6885.8,
+    "elevation_gain": 31.0,
+    "id": "19626792327",
+    "moving_time": 867.0,
+    "name": "Zwift - Volcano Circuit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-06T08:49:34Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 16914.9,
+    "elevation_gain": 65.0,
+    "id": "19640173099",
+    "moving_time": 1609.0,
+    "name": "Zwift - Group Ride: BMTR Short Adventure  (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-07T08:05:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 31168.9,
+    "elevation_gain": 420.0,
+    "id": "19640917508",
+    "moving_time": 3423.0,
+    "name": "Zwift - Race: Pro Tour | Chasing Pologne - Stage 5 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-07T08:35:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
