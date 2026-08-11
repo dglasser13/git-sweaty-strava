@@ -29404,5 +29404,44 @@
     "start_date_local": "2026-08-10T08:05:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 6164.5,
+    "elevation_gain": 21.0,
+    "id": "19694933017",
+    "moving_time": 624.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-11T07:56:37Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 21187.5,
+    "elevation_gain": 124.0,
+    "id": "19695453809",
+    "moving_time": 2014.0,
+    "name": "Zwift - Race: Stage 1 - Makuri Madness - Mech Isle Mayhem (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-11T08:10:27Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 9256.3,
+    "elevation_gain": 81.0,
+    "id": "19695698944",
+    "moving_time": 1034.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-11T08:44:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
