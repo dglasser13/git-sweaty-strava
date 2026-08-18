@@ -29508,5 +29508,31 @@
     "start_date_local": "2026-08-17T08:01:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 4164.6,
+    "elevation_gain": 20.0,
+    "id": "19792897735",
+    "moving_time": 419.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-18T08:00:21Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 28639.5,
+    "elevation_gain": 214.0,
+    "id": "19793627265",
+    "moving_time": 2977.0,
+    "name": "Zwift - Race: Stage 2 - Makuri Madness - Urumaze (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-18T08:10:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
