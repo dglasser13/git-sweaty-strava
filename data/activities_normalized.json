@@ -29534,5 +29534,18 @@
     "start_date_local": "2026-08-18T08:10:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 41111.0,
+    "elevation_gain": 221.0,
+    "id": "19808804599",
+    "moving_time": 4051.0,
+    "name": "Zwift - Group Ride:  BMTR Short Adventure \ud83d\udc9f: In Memory of Finlay Tarling (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-19T08:01:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
