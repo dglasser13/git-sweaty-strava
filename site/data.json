@@ -20492,6 +20492,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19877866925",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19891928157",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 8,
+      "name": "Zwift - Race: Stage 3 - Makuri Madness - WhatYumeziWe'reLost? (A)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19892624590",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36463,11 +36481,21 @@
           "distance": 40725.0,
           "elevation_gain": 351.0,
           "moving_time": 4086.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19891928157",
+            "19892624590"
+          ],
+          "count": 2,
+          "distance": 27658.4,
+          "elevation_gain": 342.0,
+          "moving_time": 3280.0
         }
       }
     }
   },
-  "generated_at": "2026-08-24T15:36:06.468940+00:00",
+  "generated_at": "2026-08-25T15:38:40.746702+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",

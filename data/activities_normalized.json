@@ -29599,5 +29599,31 @@
     "start_date_local": "2026-08-24T08:02:02Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 4381.7,
+    "elevation_gain": 47.0,
+    "id": "19891928157",
+    "moving_time": 482.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-25T07:58:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 23276.7,
+    "elevation_gain": 295.0,
+    "id": "19892624590",
+    "moving_time": 2798.0,
+    "name": "Zwift - Race: Stage 3 - Makuri Madness - WhatYumeziWe'reLost? (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-25T08:10:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
