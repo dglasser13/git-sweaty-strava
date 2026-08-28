@@ -29625,5 +29625,18 @@
     "start_date_local": "2026-08-25T08:10:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 35026.8,
+    "elevation_gain": 180.0,
+    "id": "19922349801",
+    "moving_time": 3483.0,
+    "name": "Zwift - Group Ride: BMTR Chase Adventure (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-27T08:07:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

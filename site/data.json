@@ -20510,6 +20510,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19892624590",
       "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 8,
+      "name": "Zwift - Group Ride: BMTR Chase Adventure (B)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19922349801",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36491,11 +36500,20 @@
           "distance": 27658.4,
           "elevation_gain": 342.0,
           "moving_time": 3280.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19922349801"
+          ],
+          "count": 1,
+          "distance": 35026.8,
+          "elevation_gain": 180.0,
+          "moving_time": 3483.0
         }
       }
     }
   },
-  "generated_at": "2026-08-26T16:14:51.106525+00:00",
+  "generated_at": "2026-08-28T00:13:39.487908+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
