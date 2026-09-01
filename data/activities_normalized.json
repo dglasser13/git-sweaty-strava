@@ -29664,5 +29664,44 @@
     "start_date_local": "2026-08-31T06:38:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 2649.7,
+    "elevation_gain": 7.0,
+    "id": "19989174903",
+    "moving_time": 252.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T08:02:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 25174.1,
+    "elevation_gain": 137.0,
+    "id": "19989747690",
+    "moving_time": 2329.0,
+    "name": "Zwift - Race: Stage 4 - Makuri Madness - Twilight Crit (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T08:10:27Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 6055.1,
+    "elevation_gain": 28.0,
+    "id": "19989903905",
+    "moving_time": 654.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T08:50:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

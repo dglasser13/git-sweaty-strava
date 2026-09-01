@@ -20537,6 +20537,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19974659174",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 8,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19989174903",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 8,
+      "name": "Zwift - Race: Stage 4 - Makuri Madness - Twilight Crit (A)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19989747690",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 8,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19989903905",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36545,11 +36572,22 @@
           "distance": 37242.8,
           "elevation_gain": 150.0,
           "moving_time": 3856.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19989174903",
+            "19989747690",
+            "19989903905"
+          ],
+          "count": 3,
+          "distance": 33878.9,
+          "elevation_gain": 172.0,
+          "moving_time": 3235.0
         }
       }
     }
   },
-  "generated_at": "2026-08-31T20:38:04.279170+00:00",
+  "generated_at": "2026-09-01T18:08:15.753470+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
