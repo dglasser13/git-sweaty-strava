@@ -20591,6 +20591,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20033218553",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20087099241",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 8,
+      "name": "Zwift - Race: Stage 1 - ZRacing - DURA-ACE - Croissant",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20087713945",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36629,11 +36647,21 @@
           "distance": 37081.0,
           "elevation_gain": 141.0,
           "moving_time": 3772.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20087099241",
+            "20087713945"
+          ],
+          "count": 2,
+          "distance": 35335.3,
+          "elevation_gain": 169.0,
+          "moving_time": 3394.0
         }
       }
     }
   },
-  "generated_at": "2026-09-07T18:58:37.092792+00:00",
+  "generated_at": "2026-09-08T18:16:52.061801+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
