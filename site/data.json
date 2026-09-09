@@ -20609,6 +20609,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20087713945",
       "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20101628828",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 8,
+      "name": "Zwift - Group Ride: BMTR Short Adventure (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20102711001",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36657,11 +36675,21 @@
           "distance": 35335.3,
           "elevation_gain": 169.0,
           "moving_time": 3394.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20101628828",
+            "20102711001"
+          ],
+          "count": 2,
+          "distance": 44878.4,
+          "elevation_gain": 277.0,
+          "moving_time": 4528.0
         }
       }
     }
   },
-  "generated_at": "2026-09-08T18:16:52.061801+00:00",
+  "generated_at": "2026-09-09T18:17:24.294792+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
