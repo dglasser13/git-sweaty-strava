@@ -29794,5 +29794,18 @@
     "start_date_local": "2026-09-09T08:01:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 35157.6,
+    "elevation_gain": 95.0,
+    "id": "20116441965",
+    "moving_time": 3731.0,
+    "name": "Zwift - Sweet Spot 3x12",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-10T08:01:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
