@@ -29872,5 +29872,31 @@
     "start_date_local": "2026-09-18T08:22:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 10255.7,
+    "elevation_gain": 52.0,
+    "id": "20280571928",
+    "moving_time": 1061.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-22T07:40:58Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 30221.7,
+    "elevation_gain": 222.0,
+    "id": "20281412221",
+    "moving_time": 3642.0,
+    "name": "Zwift - Race: Zwift Racing League 26/27: Fresh & Fast: Open Topaz League Division 2 - Race 1 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-22T08:02:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

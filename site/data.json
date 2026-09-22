@@ -20681,6 +20681,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20226941269",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 7,
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20280571928",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 8,
+      "name": "Zwift - Race: Zwift Racing League 26/27: Fresh & Fast: Open Topaz League Division 2 - Race 1 (B)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20281412221",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36785,11 +36803,21 @@
           "distance": 26315.0,
           "elevation_gain": 194.0,
           "moving_time": 2757.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20280571928",
+            "20281412221"
+          ],
+          "count": 2,
+          "distance": 40477.4,
+          "elevation_gain": 274.0,
+          "moving_time": 4703.0
         }
       }
     }
   },
-  "generated_at": "2026-09-21T19:51:25.454637+00:00",
+  "generated_at": "2026-09-22T18:28:59.642789+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/45822516",
   "repo": "dglasser13/git-sweaty-strava",
