@@ -29911,5 +29911,31 @@
     "start_date_local": "2026-09-23T08:00:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 8310.4,
+    "elevation_gain": 306.0,
+    "id": "20310015569",
+    "moving_time": 1688.0,
+    "name": "Zwift - Sweet Spot 3x12",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-24T08:10:38Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 14311.9,
+    "elevation_gain": 83.0,
+    "id": "20310304737",
+    "moving_time": 1407.0,
+    "name": "Zwift - Pacer Group Ride with Coco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-24T08:39:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
